@@ -1,2 +1,5 @@
-# mirai-console-plugin-template
-Template for Mirai Console plugins
+# mirai-hello-world
+
+Mirai Hello World example.
+
+Run
